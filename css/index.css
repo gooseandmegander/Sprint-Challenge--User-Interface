@@ -158,12 +158,16 @@ p {
 }
 
 header {
+  margin-bottom: 20px;
+}
+
+header .header-nav {
   display: flex;
   margin: 20px 0;
   padding-bottom: 15px;
 }
 
-header nav {
+header .header-nav nav {
   display: flex;
   width: 75%;
   justify-content: space-between;
@@ -178,10 +182,6 @@ header nav a {
 
 header nav a:first-child {
   margin-left: 40px;
-}
-
-.top-content img {
-  margin-bottom: 20px;
 }
 
 .top-content {
