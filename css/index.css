@@ -180,6 +180,10 @@ header nav a:first-child {
   margin-left: 40px;
 }
 
+.top-content img {
+  margin-bottom: 20px;
+}
+
 .top-content {
   display: flex;
   flex-wrap: wrap;
